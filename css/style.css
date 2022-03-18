@@ -1,0 +1,38 @@
+body{
+    background-color: aquamarine;
+    font: normal 15pt times;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+ background: rgb(255, 249, 249); 
+ border-radius: 50px;
+ padding: 15px;
+ width: 500px;
+ height: 420px;
+ margin: auto;
+ box-shadow: 5px 5px 10px rgba(48, 45, 45, 0.445);
+}
+div{
+    text-align: center;
+    padding: 10px;
+}
+#vis{
+    text-align: left;
+}
+#btn {
+    text-align: center;
+}
+input{
+    width: 80px;
+}
+footer p{
+    font-size: 15px;
+    text-align: center;
+    color: white;
+}
+select#flista{
+    width: 150px;
+}
